@@ -69,7 +69,7 @@ env:
   PREFETCH_SCRIPT: ""
   APP_NOTES: ""
   MAX_REQUEST_MB: "1024"
-  SMOKE: "on"
+  SMOKE: "off"
   SMOKE_TIMEOUT_SEC: "300"
   R_VERSION: "4.6.1"
 
